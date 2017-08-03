@@ -35,7 +35,7 @@ Required. The root element.
  
 **t**
 
-Required. Contains attributes that represent various properties of the add-in license.
+Required. Contains attributes that represent various properties of the add-in license. 
 
 ### Attributes
 
